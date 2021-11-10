@@ -1,0 +1,17 @@
+#body{
+    background-image: linear-gradient(purple, purple);
+}
+#main{
+    text-align: center;
+    align-items: center;
+}
+#row{
+    display: flex;   
+}
+#column{
+    flex: 33.33%;
+    padding: 5px;
+}
+#myid{
+    color: azure;
+}
